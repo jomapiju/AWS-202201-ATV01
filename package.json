@@ -1,0 +1,22 @@
+{
+  "name": "atv01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomapiju/AWS-202201-ATV01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomapiju/AWS-202201-ATV01/issues"
+  },
+  "homepage": "https://github.com/jomapiju/AWS-202201-ATV01#readme",
+  "dependencies": {
+    "soap": "^0.43.0"
+  }
+}
